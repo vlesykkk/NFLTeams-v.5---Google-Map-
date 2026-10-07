@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable colts
+id fragment_container
+id stadium_name
+id team_division
+id team_logo
+id team_name
+layout activity_main
+layout fragment_team_detail
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string team_logo_description
+style Theme.NFLTeams

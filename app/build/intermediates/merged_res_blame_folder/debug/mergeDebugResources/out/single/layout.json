@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.nflteams.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.example.nflteams.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.nflteams.app-mergeDebugResources-36:/layout/fragment_team_detail.xml",
+        "source": "com.example.nflteams.app-main-39:/layout/fragment_team_detail.xml"
+    }
+]
