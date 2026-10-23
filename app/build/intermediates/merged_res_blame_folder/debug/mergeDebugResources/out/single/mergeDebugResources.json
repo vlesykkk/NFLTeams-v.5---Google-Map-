@@ -1,54 +1,198 @@
 [
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/layout_fragment_team_detail.xml.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/layout/fragment_team_detail.xml"
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_buccaneers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/buccaneers.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_packers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/packers.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.example.nflteams.app-debug-41:/layout_list_item_team.xml.flat",
+        "source": "com.example.nflteams.app-main-43:/layout/list_item_team.xml"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_bears.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/bears.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_falcons.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/falcons.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_steelers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/steelers.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/layout_activity_main.xml.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/layout/activity_main.xml"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_cardinals.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/cardinals.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_lions.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/lions.png"
     },
     {
-        "merged": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-debug-37:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/vladislavlesik/.gradle/daemon/8.6/com.example.nflteams.app-main-39:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_jets.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/jets.png"
     },
     {
-        "merged": "com.example.nflteams.app-debug-37:/drawable_colts.png.flat",
-        "source": "com.example.nflteams.app-main-39:/drawable/colts.png"
+        "merged": "com.example.nflteams.app-debug-41:/drawable_panthers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/panthers.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_the49ers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/the49ers.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_saints.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/saints.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_raiders.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/raiders.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_ravens.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/ravens.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.example.nflteams.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_bengals.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/bengals.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_nfc.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/nfc.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_broncos.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/broncos.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_rams.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/rams.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/layout_fragment_team_list.xml.flat",
+        "source": "com.example.nflteams.app-main-43:/layout/fragment_team_list.xml"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_eagles.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/eagles.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_seahawks.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/seahawks.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_bills.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/bills.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_jaguars.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/jaguars.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_dolphins.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/dolphins.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_colts.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/colts.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_chargers.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/chargers.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_browns.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/browns.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_giants.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/giants.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_titans.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/titans.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_texans.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/texans.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_washington.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/washington.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_vikings.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/vikings.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_cowboys.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/cowboys.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_nfl.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/nfl.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_patriots.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/patriots.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/layout_fragment_team_detail.xml.flat",
+        "source": "com.example.nflteams.app-main-43:/layout/fragment_team_detail.xml"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_chiefs.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/chiefs.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/drawable_afc.png.flat",
+        "source": "com.example.nflteams.app-main-43:/drawable/afc.png"
+    },
+    {
+        "merged": "com.example.nflteams.app-debug-41:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.nflteams.app-main-43:/mipmap-xhdpi/ic_launcher.png"
     }
 ]

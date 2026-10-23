@@ -12,6 +12,7 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.nflteams.R;
+import com.google.android.gms.maps.MapView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -19,6 +20,9 @@ import java.lang.String;
 public final class FragmentTeamDetailBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
+
+  @NonNull
+  public final MapView stadiumMap;
 
   @NonNull
   public final TextView stadiumName;
@@ -32,10 +36,11 @@ public final class FragmentTeamDetailBinding implements ViewBinding {
   @NonNull
   public final TextView teamName;
 
-  private FragmentTeamDetailBinding(@NonNull ConstraintLayout rootView,
+  private FragmentTeamDetailBinding(@NonNull ConstraintLayout rootView, @NonNull MapView stadiumMap,
       @NonNull TextView stadiumName, @NonNull TextView teamDivision, @NonNull ImageView teamLogo,
       @NonNull TextView teamName) {
     this.rootView = rootView;
+    this.stadiumMap = stadiumMap;
     this.stadiumName = stadiumName;
     this.teamDivision = teamDivision;
     this.teamLogo = teamLogo;
@@ -69,6 +74,12 @@ public final class FragmentTeamDetailBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.stadium_map;
+      MapView stadiumMap = ViewBindings.findChildViewById(rootView, id);
+      if (stadiumMap == null) {
+        break missingId;
+      }
+
       id = R.id.stadium_name;
       TextView stadiumName = ViewBindings.findChildViewById(rootView, id);
       if (stadiumName == null) {
@@ -93,8 +104,8 @@ public final class FragmentTeamDetailBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentTeamDetailBinding((ConstraintLayout) rootView, stadiumName, teamDivision,
-          teamLogo, teamName);
+      return new FragmentTeamDetailBinding((ConstraintLayout) rootView, stadiumMap, stadiumName,
+          teamDivision, teamLogo, teamName);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

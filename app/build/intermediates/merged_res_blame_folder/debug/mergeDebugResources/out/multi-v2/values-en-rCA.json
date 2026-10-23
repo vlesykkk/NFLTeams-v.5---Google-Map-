@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.nflteams.app-mergeDebugResources-35:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.nflteams.app-mergeDebugResources-39:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "/Users/vladislavlesik/.gradle/caches/transforms-4/d41bdb47d79d799ce730de84721a3817/transformed/core-1.13.1/res/values-en-rCA/values-en-rCA.xml",
